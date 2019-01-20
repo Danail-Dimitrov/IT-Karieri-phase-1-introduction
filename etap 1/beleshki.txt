@@ -1,0 +1,133 @@
+Console.WriteLine("Hello World");-pishe teksta mejdu kavichkite
+
+int a=int.Parse(ConsoleReadLine());-chete i go pravi na int
+
+Console.WriteLine($"Hello World,{promenliva} {}");-pishe teksta mejdu kavichkite i izkarva stoinosta na promenlivite
+
+Console.WriteLine("Hello World"+promenliva +promenliva);-pishe teksta mejdu kavichkite i izkarva stoinosta na promenlivite
+
+https://files.fm/u/pryb43b3
+----------------------------------------------------------------------------------------------------------------------------------------
+
+https://www.facebook.com/groups/training.for.it.career.bg/?ref=bookmarks
+
+var age1=5;
+var age2=5.5;
+var-universalna promenliva
+var a=int.Parse(ConsoleReadLine());
+
+var a=16;
+var b=3;
+var c=a/b;-izkarva 5,zakrugkq go
+var c=a/(b*1.0);-za da go izkara pravilno
+
+var a=25;
+var i=a/4 //izkarva 6
+var j=a/4.0//izkarva 6.25
+var error z=a/0//greshka
+
+ 
+string a="5.5"
+int b=10
+Consloe.WriteLine(a+b);//izkarva 5.510
+
+
+Math.
+Round-normalno zakruglqne
+Abs-modul
+Celing-zakruglq na gore
+Flore-cqlo chislo po mlako ot stoinosta
+Max-po golqmoto chislo
+Min-po mlako chislo
+Pow-stepen
+PI-lice na jrug
+
+
+Math.Floor() rounds toward negative infinity
+
+Math.Truncate rounds up or down towards zero.
+
+Math.Floor(-3.4)     = -4
+Math.Truncate(-3.4)  = -3
+
+Math.Round(number,2);-zakruglq do vtoroto chislo
+Math.Pow(2,50;-dava 2 na stepen 5
+
+.........................................................................................................................................
+
+
+ako pri if/else nqma {} programata izpulnqva samo sledvashtia red sled if/else
+
+6 % 2-deli na dve i ni dava ostatuk
+if(6 % 2 == 0)-ako se deli na 2 bez ostatuk 
+
+@int-krushtava promenliva int
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+else if()-ako if ne e vqrno proverqva tova
+
+promenliva % 10 dava poslednata civra ot chisloto
+
+if(a && b) || c-tova v skobite ili c
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Console.WriteLine((char)('a'+1);--(char) pravi cqloto v tip char
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+ConsoleWriteLine(new Strings('*',n)):-pechata n na proi zvezdichki na edin red
+........................................................................................................................................................
+while(a)
+{
+	b
+{
+
+-proverqva a i pravi b samo kogato a e true sled vsqko ispulnenie na b se proverqva a
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+ot 10-drugata nedelq na izpit
+
+do
+{
+a
+}while (b) - purvo pravia posle proverqva b i ako b e false ne povtarq a
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+string inputNumber=Console.ReadLine();
+char firstDigit=inputnumber[0];-vzima 1vata cifra ot chisloto/purva bukva ot teksta
+char firstDigit=inputnumber[1];-vzima 2vata cifra ot chisloto/2ra bukva ot teksta
+char firstDigit=inputnumber[2];-vzima 3vata cifra ot chisloto/3tata bukva ot teksta
+
+
+ int hours = (mins - mins % 60) / 60;-ot min chasove
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
